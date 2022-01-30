@@ -1,0 +1,6 @@
+{
+	// autocompletion
+	"json.enable": true,
+	"css.completion.completePropertyWithSemicolon": false,
+	"html.completion.attributeDefaultValue": "empty"
+}
